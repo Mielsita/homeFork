@@ -3,34 +3,34 @@ const Config = {
     scale: 1,
     Links: [
         [
-            "site",
+            "common",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["youtube", "https://www.youtube.com"],
+                ["gmail", "https://www.gmail.com"]
             ]
         ],
         [
-            "site",
+            "watch",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["netflix", "https://www.netflix.com"],
+                ["hulu", "https://www.hulu.com"]
             ]
         ],
         [
-            "site",
+            "social",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["insta", "https://www.instagram.com"],
+                ["filler", "https://www.example.com"],
+                ["filler", "https://www.example.com"]
             ]
         ],
         [
-            "site",
+            "school",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["gradescope", "https://www.gradescope.com"],
+                ["canvas", "https://www.canvas.stanford.edu"],
+                ["drive", "https://www.drive.google.com/drive"],
+                ["email", "https://webmail.stanford.edu"]
             ]
         ]
     ]
