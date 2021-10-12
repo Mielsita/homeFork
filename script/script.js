@@ -17,19 +17,19 @@ const Config = {
             ]
         ],
         [
-            "social",
+            "mobilize",
             [
                 ["insta", "https://www.instagram.com"],
-                ["whatever u want", "https://www.example.com"],
-                ["whatever u want", "https://www.example.com"]
+                ["filler", "https://www.example.com"],
+                ["filler", "https://www.example.com"]
             ]
         ],
         [
             "school",
             [
                 ["gradescope", "https://www.gradescope.com"],
-                ["canvas", "https://www.canvas.stanford.edu"],
-                ["drive", "https://www.drive.google.com/drive"],
+                ["canvas", "https://canvas.stanford.edu"],
+                ["drive", "https://drive.google.com/drive"],
                 ["email", "https://webmail.stanford.edu"]
             ]
         ]
