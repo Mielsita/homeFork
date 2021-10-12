@@ -20,8 +20,8 @@ const Config = {
             "social",
             [
                 ["insta", "https://www.instagram.com"],
-                ["filler", "https://www.example.com"],
-                ["filler", "https://www.example.com"]
+                ["whatever u want", "https://www.example.com"],
+                ["whatever u want", "https://www.example.com"]
             ]
         ],
         [
