@@ -5,7 +5,8 @@
 
 :root {
     --font: "Roboto Mono";
-    --background: #0f0e17;
+    /*--background: #0f0e17;*/
+    --background: #e6af57;
     --foreground: #fffffe;
     --pink: #e53170;
     --red: #f25f4c;
